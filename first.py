@@ -1,6 +1,17 @@
-# This is our first python program
+print(data)
 
-print("Hello World")
-c = 10 + 20
-print("Welcome to ITD!")
-print("Lets learn python")
+
+data = 10
+print(data)
+
+data = "Good Morning!!"
+print(data)
+
+
+data = [1, 4, 6, 8]
+print(data)
+
+
+
+
+print(data)

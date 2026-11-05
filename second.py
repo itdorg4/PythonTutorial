@@ -8,7 +8,7 @@ print(num1 + num2)
 
 num1 = 150
 
-# num2 = 120
+num2 = 120 # This is sample number
 
 
 print(num1 + num2)
